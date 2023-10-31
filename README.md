@@ -24,7 +24,11 @@ Dataset link : https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-pr
 <li>pandas
 <li>matplotlib
 <li>seaborn
-
+<li>numpy
+<li>scipy
+<li>plotly
+<li>folium    
+            
 # Working Procedure :
 
  To load and preprocess the covid-19 vaccine analysis from Kaggle, we can use the following steps:
